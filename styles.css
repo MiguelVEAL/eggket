@@ -1,0 +1,33 @@
+body{font-family: Arial, Helvetica, sans-serif;}
+p{
+    color: white;
+    text-align: justify;
+}
+h1, h2, h3{
+    color: white;
+}
+li{
+    color: white;
+}
+header{
+    padding-left: 35%;
+    padding-right: 35%;
+    background-color:  rgba(255, 166, 0, 0.174);
+}
+.texto{
+    background-color: rgba(27, 48, 48, 0.521);
+
+}
+.listas{
+    background-color: rgba(210, 105, 30, 0.526);
+}
+#huevo{
+    position: relative;
+  
+}
+li{
+    font-size: large;
+}
+#inicio{
+    font-size: large;
+}
